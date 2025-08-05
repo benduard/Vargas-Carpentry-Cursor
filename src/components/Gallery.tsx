@@ -19,7 +19,6 @@ const Gallery: React.FC = () => {
 
   // All images from public/Vargas Assets folder
   const allImages = [
-    { src: "/Vargas Assets/Chandalier1.jpeg", alt: "Chandalier 1 - Vargas Carpentry project" },
     { src: "/Vargas Assets/Chandalier3.jpeg", alt: "Chandalier 3 - Vargas Carpentry project" },
     { src: "/Vargas Assets/Chandalier4.jpeg", alt: "Chandalier 4 - Vargas Carpentry project" },
     { src: "/Vargas Assets/Cover1.jpg", alt: "Cover 1 - Vargas Carpentry project" },
